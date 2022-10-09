@@ -12,6 +12,10 @@ A aplicação consiste em criar uma senha aleatória **Forte** para o usuário, 
 
 ![Web 2](https://github.com/peterson2003/gerador-de-senha/blob/main/Screenshot_10.png?raw=true)
 
+## Clique no link abaixo para testar a aplicação
+
+**https://peterson2003.github.io/gerador-de-senha/**
+
 # Tecnologias utilizadas
 
 ## Front end
